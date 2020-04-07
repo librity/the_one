@@ -1,6 +1,6 @@
 # [the_one](https://www.youtube.com/watch?v=oC483DTjRXU)
 
-This is meant to be a FullStack application th showcase my abilities with a
+This is meant to be a FullStack application that showcase my abilities with a
 stack and get hired. It should:
 
 ## Requirements
@@ -22,7 +22,7 @@ stack and get hired. It should:
 - https://themes.getbootstrap.com/
 
 4. Has and uses databases, with the right type of database for the job: General
-   relatonal database for your model data, non-relational for notifications and
+   relational database for your model data, non-relational for notifications and
    such (Mongo) and a redis for queues and jobs. Implement these with an ORM or
    a Querybuilder accordingly.
 
@@ -30,6 +30,7 @@ stack and get hired. It should:
    authentication system and ACL. Ideally an authentications that integrates
    with existing api (Google, Facebook, GitHub, etc.). A really cool tool that's
    becoming very popular and it's easy to integrate:
+
    - https://auth0.com/
 
 ## What to build
@@ -45,7 +46,7 @@ structure you can make it do all sorts of things, and solve all sorts of problem
 
 Thing is we're already making this exact same thing at Digital House. For now I
 should definitely focus on that and make it absolutely great, whilst following
-these guidlines.
+these guidelines.
 
 ### Think of another project
 
@@ -65,7 +66,7 @@ That meets the requirements.
    This way you're constantly focusing on what you need to build and not in the
    obstacles and the things you gotta learn to build it. Focus implementing the
    feature for the sprint, not on building the entire thing all at once. Use
-   this bug-tracker your building to track and manage your progress in bulding
+   this bug-tracker your building to track and manage your progress in building
    this bug-tracker.
 
 4. Deploy it online and have it hosted for the world to see.
